@@ -1,4 +1,4 @@
-Project Purpose
+##Project Purpose
 
 This project is a replication of Figures 5B, 5C, and 5D of this paper:
 https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012122#sec009
