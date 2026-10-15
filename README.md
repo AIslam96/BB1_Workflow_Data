@@ -26,16 +26,16 @@ If one wants to replicate the work here or use it as a frame of reference for th
 please peruse the documents in this order. It's best to locate the raw data independently as well as an exercise.
 
 1. seqpipe.sh 
-#Commands for genome alignment and dataframe generation.
-#I provided the raw tsv's if you want to skip this alignment step or visualize it.
-#Includes filtering commands as well.
+Commands for genome alignment and dataframe generation.
+I provided the raw tsv's if you want to skip this alignment step or visualize it.
+Includes filtering commands as well.
 
-2. BB1Fig5BCD.Rmd for coding on R or BB1Fig5BCD.pdf if you don't want to see all the coding.
-#Generation of figures from dataframes. Comments included within file
+2. BB1Fig5BCD.Rmd for commands on R or BB1Fig5BCD.pdf if you only want the output.
+Generation of figures from dataframes. Comments included within file.
 
 3. BB1 Presentation.pptx 
-#Presented on 2/10/26
+Presented on 2/10/26
 
 4. phiBB1_figure_analysis_essay.pdf 
-#An analysis of the original publication and an explanation of their methods. 
-#Includes figure analysis with comparisons between the original and the reconstruction. Completed on 5/26/26.
+An analysis of the original publication and an explanation of their methods. 
+Includes figure analysis with comparisons between the original and the reconstruction. Completed on 5/26/26.
